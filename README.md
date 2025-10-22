@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <table>
     <tr>
