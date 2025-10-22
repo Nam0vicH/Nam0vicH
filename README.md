@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Nam0vicH/Nam0vicH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nam0vicH&show_icons=true&theme=github_dark&border_color=3d444d&hide_border=false)
