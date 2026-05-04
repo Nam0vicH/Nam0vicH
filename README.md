@@ -1,5 +1,3 @@
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=Nam0vicH&show_icons=true&theme=transparent&title_color=d4be98&text_color=d4be98&icon_color=d4be98&bg_color=282828&border_color=3d444d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
  👋 Привет! Я Nam0vicH
 
 - 🔭 Сейчас работаю над интересными проектами
